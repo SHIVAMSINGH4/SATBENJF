@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Shivam_Singh",
+            "password": "admin@1234",  
+            "role": "ADMIN",
+            "name": "Shivam Singh"
+        },
+        {
+            "id": 2,
+            "username": "Amit_Kumar",
+            "password": "user@1234",  
+            "role": "USER",
+            "name": "Amit Kumar"
+        }
+    ]
+}
